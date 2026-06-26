@@ -1,0 +1,86 @@
+# O&A - סקוושים! — Generative Engine Optimization Map
+
+> A cheerful and pleasant online store called 'חנות דברים נעימים' (Store of Nice Things) that specializes in stress balls and other feel-good, calming products. The brand identity revolves around positivity, comfort, and relief — catering to people looking for small, satisfying items that bring joy and ease tension. The store has a warm, approachable vibe with a focus on tactile, sensory-friendly products.
+
+---
+
+## Pages
+
+### בית
+https://o-a-7473edde.zappy5.app
+גלו את חנות הדברים הנעימים: כדורי לחץ, צעצועי אנטי סטרס לילדים ופריטים מרגיעים שמכניסים שמחה לכל יום. התחילו ללחוץ ולהפיג מתחים עכשיו!
+
+### שירותים
+https://o-a-7473edde.zappy5.app/services
+משלוחים מהירים, אריזות מפנקות וייעוץ אישי לבחירת כדורי לחץ לסטודנטים ולכל מי שצריך קצת נחת. בואו לקבל שירות עם חיוך ושליחות עד הבית!
+
+### אודות
+https://o-a-7473edde.zappy5.app/about
+הכירו את O&amp;A - סקוושים: מותג שנולד מאהבה לפריטים קטנים ומנחמים. אנחנו מביאים לכם כדורי לחץ וצעצועי אנטי סטרס לילדים שעושים טוב על הלב. הצטרפו למסע הנעים!
+
+### צור קשר
+https://o-a-7473edde.zappy5.app/contact
+יש שאלה על כדור לחץ לבחינות או סתם בא לכם להגיד שלום? צרו קשר עם חנות הדברים הנעימים — אנחנו זמינים בוואטסאפ, במייל ומחכים לשמוע מכם בחיוך גדול!
+
+### תודה על פנייתך | O&A - סקוושים!
+https://o-a-7473edde.zappy5.app/thank-you
+O&A - סקוושים! - תודה על פנייתך | O&A - סקוושים!
+
+## Legal & Policy
+
+### Privacy Policy
+https://o-a-7473edde.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://o-a-7473edde.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://o-a-7473edde.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://o-a-7473edde.zappy5.app/contact
+- Endpoint: https://o-a-7473edde.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About O&A - סקוושים!
+A cheerful and pleasant online store called 'חנות דברים נעימים' (Store of Nice Things) that specializes in stress balls and other feel-good, calming products. The brand identity revolves around positivity, comfort, and relief — catering to people looking for small, satisfying items that bring joy and ease tension. The store has a warm, approachable vibe with a focus on tactile, sensory-friendly products.
+
+## Services/Products
+- כדורי לחץ
+- מוצרי הרפיה
+
+## Target Audience
+- סטודנטים תחת לחץ
+- ילדים
+- ילדים במבחן
+
+## Industry
+E-commerce / Wellness & Stress Relief Products
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://o-a-7473edde.zappy5.app/sitemap.xml
+- Robots: https://o-a-7473edde.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://o-a-7473edde.zappy5.app/llms-full.txt
