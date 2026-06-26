@@ -7,37 +7,37 @@
 ## Pages
 
 ### בית
-https://o-a-7473edde.zappy5.app
+https://example.com
 גלו את חנות הדברים הנעימים: כדורי לחץ, צעצועי אנטי סטרס לילדים ופריטים מרגיעים שמכניסים שמחה לכל יום. התחילו ללחוץ ולהפיג מתחים עכשיו!
 
 ### שירותים
-https://o-a-7473edde.zappy5.app/services
+https://example.com/services
 משלוחים מהירים, אריזות מפנקות וייעוץ אישי לבחירת כדורי לחץ לסטודנטים ולכל מי שצריך קצת נחת. בואו לקבל שירות עם חיוך ושליחות עד הבית!
 
 ### אודות
-https://o-a-7473edde.zappy5.app/about
+https://example.com/about
 הכירו את O&amp;A - סקוושים: מותג שנולד מאהבה לפריטים קטנים ומנחמים. אנחנו מביאים לכם כדורי לחץ וצעצועי אנטי סטרס לילדים שעושים טוב על הלב. הצטרפו למסע הנעים!
 
 ### צור קשר
-https://o-a-7473edde.zappy5.app/contact
+https://example.com/contact
 יש שאלה על כדור לחץ לבחינות או סתם בא לכם להגיד שלום? צרו קשר עם חנות הדברים הנעימים — אנחנו זמינים בוואטסאפ, במייל ומחכים לשמוע מכם בחיוך גדול!
 
 ### תודה על פנייתך | O&A - סקוושים!
-https://o-a-7473edde.zappy5.app/thank-you
+https://example.com/thank-you
 O&A - סקוושים! - תודה על פנייתך | O&A - סקוושים!
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://o-a-7473edde.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://o-a-7473edde.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://o-a-7473edde.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -47,8 +47,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://o-a-7473edde.zappy5.app/contact
-- Endpoint: https://o-a-7473edde.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -81,6 +81,6 @@ E-commerce / Wellness & Stress Relief Products
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://o-a-7473edde.zappy5.app/sitemap.xml
-- Robots: https://o-a-7473edde.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://o-a-7473edde.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
